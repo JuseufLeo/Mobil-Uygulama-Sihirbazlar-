@@ -8,11 +8,11 @@
 
 ## 👥 Proje Ekibi
 
-- **Yusuf Aslan** (Proje Yöneticisi)  
-- **İbrahim Seha Doğan**  
-- **Emire Şeker**  
-- **Said Bestil**  
-- **Berfin Beril Dere**  
+### 👤 Yusuf Aslan (Proje Yöneticisi)
+### 👤 İbrahim Seha Doğan
+### 👤 Emire Şeker
+### 👤 Said Bestil
+### 👤 Berfin Beril Dere
 
 ---
 
