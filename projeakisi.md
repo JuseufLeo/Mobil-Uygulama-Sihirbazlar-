@@ -6,6 +6,28 @@
 
 ---
 
+## 👥 Proje Ekibi
+
+- **Yusuf Aslan** (Proje Yöneticisi)  
+- **İbrahim Seha Doğan**  
+- **Emire Şeker**  
+- **Said Bestil**  
+- **Berfin Beril Dere**  
+
+---
+
+## 📌 Proje Açıklaması
+
+Akıllı Yemek Tarifi Uygulaması, kullanıcıların sahip oldukları malzemeleri en verimli şekilde değerlendirmelerine yardımcı olan, aynı zamanda sağlıklı beslenme alışkanlıklarını destekleyen yenilikçi bir mobil uygulamadır.
+
+Bu uygulama, kullanıcıların ellerindeki mevcut malzemeleri analiz ederek uygun yemek tarifleri sunar, eksik malzemeleri belirler ve tariflerin besin değerlerini detaylı bir şekilde hesaplar. Ayrıca kullanıcıların kişisel hedeflerine (kilo verme, kilo alma, sağlıklı yaşam vb.) uygun olarak özelleştirilmiş diyet planları oluşturmasına olanak tanır.
+
+Modern teknolojiler kullanılarak geliştirilecek olan bu uygulama, kullanıcı dostu arayüzü, hızlı performansı ve akıllı öneri sistemi ile günlük yemek planlamasını kolaylaştırmayı hedeflemektedir.
+
+Proje kapsamında geliştirilecek sistem, hem bireysel kullanıcıların ihtiyaçlarına çözüm sunacak hem de sürdürülebilir ve sağlıklı yaşam alışkanlıklarının yaygınlaşmasına katkı sağlayacaktır.
+
+---
+
 ## 🎯 Proje Amacı
 
 Bu projenin amacı, kullanıcıların ellerinde bulunan malzemelere göre yemek tarifleri öneren, besin değerlerini analiz eden ve kişiye özel diyet planları oluşturan **akıllı ve kullanıcı dostu bir mobil uygulama** geliştirmektir.
