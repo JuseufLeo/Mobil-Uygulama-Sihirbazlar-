@@ -248,3 +248,139 @@ Sistemin kalite standartlarını belirleyen teknik özellikler:
 
 ---
 
+# 📱 AKILLI YEMEK TARİFİ UYGULAMASI  
+## 👤 Kullanıcı Hikayeleri Analizi ve Önceliklendirme
+
+**Hazırlayan:** Yusuf Aslan  
+**Tarih:** 9 Nisan 2026  
+
+---
+
+## 📌 Amaç
+
+Bu dokümanın amacı, mobil uygulama için belirlenen kullanıcı hikayelerini analiz etmek, uygulanabilirliklerini değerlendirmek ve MoSCoW yöntemi ile önceliklendirmektir.
+
+---
+
+## 👥 Kullanıcı Hikayeleri
+
+### 🥗 Hikaye 1: Malzemeye Göre Tarif Bulma
+**Açıklama:**  
+Kullanıcı olarak elimdeki malzemeleri girerek uygun yemek tariflerini görmek istiyorum.
+
+- **Kullanıcı Değeri:** ⭐⭐⭐⭐⭐  
+- **Teknik Zorluk:** ⭐⭐⭐  
+- **Öncelik:** 🔴 Çok Yüksek  
+
+---
+
+### 🔐 Hikaye 2: Kullanıcı Kayıt ve Giriş
+**Açıklama:**  
+Kullanıcı olarak hesap oluşturmak ve giriş yapmak istiyorum.
+
+- **Kullanıcı Değeri:** ⭐⭐⭐⭐⭐  
+- **Teknik Zorluk:** ⭐⭐  
+- **Öncelik:** 🔴 Çok Yüksek  
+
+---
+
+### 📖 Hikaye 3: Tarif Detaylarını Görüntüleme
+**Açıklama:**  
+Kullanıcı olarak seçtiğim tarifin detaylarını görmek istiyorum.
+
+- **Kullanıcı Değeri:** ⭐⭐⭐⭐⭐  
+- **Teknik Zorluk:** ⭐⭐  
+- **Öncelik:** 🔴 Çok Yüksek  
+
+---
+
+### 🔢 Hikaye 4: Besin Değerlerini Görme
+**Açıklama:**  
+Kullanıcı olarak yemeklerin kalori ve besin değerlerini görmek istiyorum.
+
+- **Kullanıcı Değeri:** ⭐⭐⭐⭐  
+- **Teknik Zorluk:** ⭐⭐⭐  
+- **Öncelik:** 🟡 Yüksek  
+
+---
+
+### 🥗 Hikaye 5: Diyet Planı Oluşturma
+**Açıklama:**  
+Kullanıcı olarak hedefime uygun diyet planı oluşturmak istiyorum.
+
+- **Kullanıcı Değeri:** ⭐⭐⭐⭐⭐  
+- **Teknik Zorluk:** ⭐⭐⭐⭐  
+- **Öncelik:** 🟡 Yüksek  
+
+---
+
+### ⭐ Hikaye 6: Favorilere Ekleme
+**Açıklama:**  
+Kullanıcı olarak beğendiğim tarifleri kaydetmek istiyorum.
+
+- **Kullanıcı Değeri:** ⭐⭐⭐⭐  
+- **Teknik Zorluk:** ⭐⭐  
+- **Öncelik:** 🟢 Orta  
+
+---
+
+### 🔍 Hikaye 7: Tarif Filtreleme
+**Açıklama:**  
+Kullanıcı olarak tarifleri kategoriye göre filtrelemek istiyorum.
+
+- **Kullanıcı Değeri:** ⭐⭐⭐  
+- **Teknik Zorluk:** ⭐⭐  
+- **Öncelik:** 🟢 Orta  
+
+---
+
+### 🔔 Hikaye 8: Bildirim Alma
+**Açıklama:**  
+Kullanıcı olarak yeni tarifler hakkında bildirim almak istiyorum.
+
+- **Kullanıcı Değeri:** ⭐⭐⭐  
+- **Teknik Zorluk:** ⭐⭐⭐  
+- **Öncelik:** 🔵 Düşük  
+
+---
+
+## 📊 MoSCoW Önceliklendirme
+
+### 🔴 MUST HAVE (Olmazsa Olmaz)
+- Kullanıcı kayıt ve giriş sistemi  
+- Malzemeye göre tarif önerme  
+- Tarif detay sayfası  
+
+---
+
+### 🟡 SHOULD HAVE (Olmalı)
+- Besin değeri gösterimi  
+- Diyet planı oluşturma  
+
+---
+
+### 🟢 COULD HAVE (Olursa İyi Olur)
+- Favorilere ekleme  
+- Tarif filtreleme  
+
+---
+
+### 🔵 WON’T HAVE (Şimdilik Olmayacak)
+- Bildirim sistemi  
+- Gelişmiş AI öneri sistemi  
+
+---
+
+## 🧠 Genel Değerlendirme
+
+Projede en kritik özellikler kullanıcıların hızlı ve doğru şekilde tarif bulmasını sağlayan sistemlerdir. Bu nedenle çekirdek fonksiyonlar (tarif önerme, kullanıcı yönetimi) en yüksek önceliğe sahiptir.
+
+Diyet planı ve besin değerleri gibi özellikler uygulamaya değer katarken, bildirim sistemi gibi özellikler sonraki sürümlere bırakılmıştır.
+
+---
+
+## 📌 Sonuç
+
+MoSCoW yöntemi ile yapılan bu önceliklendirme sayesinde geliştirme süreci daha planlı ve verimli hale getirilmiştir. Öncelikle temel işlevler geliştirilerek uygulamanın çalışır bir versiyonu oluşturulacak, ardından ek özellikler aşamalı olarak eklenecektir.
+
+---
